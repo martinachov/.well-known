@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.martin.feature.base",
-    "sha256_cert_fingerprints":
-    ["2A1:75:2A:74:4D:22:2C:8A:D5:8D:51:9D:8A:24:B2:9B:A1:A1:2E:6F:74:6F:2C:2A:7D:E8:B0:B9:5D:E8:F3:AA"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.martin.instantexample",
+               "sha256_cert_fingerprints": ["SHA256: D5:D9:3C:EA:56:AA:86:2D:B8:1C:4B:CC:AD:E9:18:66:CC:CB:FF:4D:6A:0C:15:DD:E1:9F:91:E5:91:E6:75:93"] }
 }]
