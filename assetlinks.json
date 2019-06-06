@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.martin.instantexample",
+    "package_name": "ar.com.tesina.climapp",
     "sha256_cert_fingerprints":
-    ["D5:D9:3C:EA:56:AA:86:2D:B8:1C:4B:CC:AD:E9:18:66:CC:CB:FF:4D:6A:0C:15:DD:E1:9F:91:E5:91:E6:75:93"]
+    ["67:75:BF:B5:84:5E:7F:A0:F3:F0:D9:E0:CA:9E:0D:3B:C3:E1:85:EA:77:5B:46:AD:05:4D:CB:59:03:41:5E:E1"]
   }
 }]
